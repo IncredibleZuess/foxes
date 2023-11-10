@@ -2,6 +2,6 @@
 
 import os
 
-for i in range(2):
+for i in range(123):
 	# a free api to get fox images
 	os.system("wget https://randomfox.ca/images/"+ str(i) + ".jpg")
